@@ -37,11 +37,21 @@
     *Robert Ryan McCune, Tim Weninger, and Greg Madey.*
     <br/>
 
-
-
 ## [Algorithms](#content)
 
 ### [Breadth-First Search](#content)
+
+1. **GPU-based Graph Traversal on Compressed Graphs.** 
+
+2. **Dr. BFS: Data Centric Breadth-First Search on FPGAs.** 
+
+3. **Traversing Large Graphs on GPUs with Unified Memory.** 
+
+4. **Self-adaptive Graph Traversal on GPUs.** 
+
+5. **EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In GPUs.** 
+
+6. **Fast and Efficient Parallel Breadth-First Search with Power-law Graph Transformation.**  
 
 ### [PageRank](#content)
 
