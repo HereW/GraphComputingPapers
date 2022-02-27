@@ -24,7 +24,6 @@
 </table>
 
 ## [Survey Papers](#content)
-<br/>
 
 1. **Graph Processing on GPUs: A Survey.** ACM Computing Surveys (CSUR) 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3128571)
    <br/>
@@ -38,12 +37,21 @@
     *Robert Ryan McCune, Tim Weninger, and Greg Madey.*
     <br/>
 
-
-
 ## [Algorithms](#content)
-<br/>
 
 ### [Breadth-First Search](#content)
+
+1. **GPU-based Graph Traversal on Compressed Graphs.** 
+
+2. **Dr. BFS: Data Centric Breadth-First Search on FPGAs.** 
+
+3. **Traversing Large Graphs on GPUs with Unified Memory.** 
+
+4. **Self-adaptive Graph Traversal on GPUs.** 
+
+5. **EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In GPUs.** 
+
+6. **Fast and Efficient Parallel Breadth-First Search with Power-law Graph Transformation.**  
 
 ### [PageRank](#content)
 
