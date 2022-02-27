@@ -32,7 +32,7 @@
    *Xuanhua Shi, Zhigao Zheng, Yongluan Zhou, Hai Jin, Ligang He, Bo Liu, and Qiang-Sheng Hua.*
    <br/>
 
-2. **Thinking like a vertex: a survey of vertex-centric frameworks for large-scale distributed graph processing.** ACM Computing Surveys (CSUR) 2015. [paper](https://dl.acm.org/doi/abs/10.1145/2818185)
+2. **Thinking Like a Vertex: A Survey of Vertex-centric Frameworks for Large-scale Distributed Graph Processing.** ACM Computing Surveys (CSUR) 2015. [paper](https://dl.acm.org/doi/abs/10.1145/2818185)
    <br/>
 
     *Robert Ryan McCune, Tim Weninger, and Greg Madey.*
