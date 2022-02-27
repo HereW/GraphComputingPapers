@@ -24,7 +24,6 @@
 </table>
 
 ## [Survey Papers](#content)
-<br/>
 
 1. **Graph Processing on GPUs: A Survey.** ACM Computing Surveys (CSUR) 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3128571)
    <br/>
@@ -41,7 +40,6 @@
 
 
 ## [Algorithms](#content)
-<br/>
 
 ### [Breadth-First Search](#content)
 
