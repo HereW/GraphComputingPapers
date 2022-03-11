@@ -26,6 +26,7 @@
     <td>&emsp;<a href="#distributed-system">3.1 Distributed System</a></td>
     <td>&ensp;<a href="single-gpu-and-multiple-gpus">3.2 Single GPU and Multiple GPUs</a></td>
 </tr>
+<tr><td colspan="2"><a href="#dynamic-graphs">4. Dynamic Graphs</a></td></tr> 
 </table>
 
 ## [Survey Papers](#content)
@@ -80,8 +81,31 @@
 
 ### [Cycle Detection](#content)
 
+1. **Finding All the Elementary Circuits of a Directed Graph.** SIAM Journal on Computing, 1975. [paper](https://epubs.siam.org/doi/abs/10.1137/0204007)
+   
+   *Donald B. Johnson.*
+
+2. **2SCENT: An Efficient Algorithm for Enumerating All Simple Temporal Cycles.** PVLDB 2018. [paper](https://dl.acm.org/doi/abs/10.14778/3236187.3236197)
+   
+   *Rohit Kumar, and Toon Calders.*
+
+3. **Real-time Constrained Cycle Detection in Large Dynamic Graphs.** PVLDB 2018. [paper](https://dl.acm.org/doi/abs/10.14778/3229863.3229874) 
+   
+   *Xiafei Qiu, Wubin Cen, Zhengping Qian, You Peng, Ying Zhang, Xuemin Lin, and Jingren Zhou.*
+
+4. **Efficient Parallel Cycle Search in Large Graphs.** DASFAA 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59416-9_21)
+   
+   *Zhu Qing, Long Yuan, Zi Chen, Jingjing Lin, and Guojie Ma.*
 
 #### [s-t Path Enumeration](#content)
+
+1. **Towards Bridging tTheory and Practice Hop-constrained s-t Simple Path Enumeration.** PVLDB 2019. [paper](https://dl.acm.org/doi/abs/10.14778/3372716.3372720)
+   
+   *You Peng, Ying Zhang, Xuemin Lin, Wenjie Zhang, Lu Qin, and Jingren Zhou.*
+
+2. **PEFP: Efficient k-hop Constrained s-t Simple Path Enumeration on FPGA.** ICDE 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9458759)
+   
+   *Zhengmin Lai, You Peng, Shiyu Yang, Xuemin Lin, and Wenjie Zhang.*
 
 
 ### [Label Propagation](#content)
@@ -100,7 +124,7 @@
 
 1. **A Fast Work-efficient SSSP Algorithm for GPUs.** PPoPP 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3437801.3441605)
 
-   *Wang, Kai, Don Fussell, and Calvin Lin.* 
+   *Kai Wang, Don Fussell, and Calvin Lin.* 
 
 
 
@@ -114,13 +138,12 @@
 
    *Julian Shun, and Guy E. Blelloch.*
 
-
 ### [Single GPU and Multiple GPUs](#content)
 
 1. **Medusa: Simplified Graph Processing on GPUs.** TPDS 2013. [paper](https://ieeexplore.ieee.org/abstract/document/6497047)
 
    *Jianlong Zhong, and Bingsheng He.* 
-   
+
 2. **CuSha: Vertex-centric Graph Processing on GPUs.** HPDC 2014. [paper](https://dl.acm.org/doi/abs/10.1145/2600212.2600227)
    <br/>
 
@@ -133,3 +156,31 @@
    *Yangzihao Wang, Andrew Davidson, Yuechao Pan, Yuduo Wu, Andy Riffel, and John D. Owens.* 
    <br/>
 
+4. **Frog: Asynchronous Graph Processing on GPU with Hybrid Coloring Model.** TKDE 2017. [paper](https://ieeexplore.ieee.org/abstract/document/8017445)
+   
+   *Xuanhua Shi, Xuan Luo, Junling Liang, Peng Zhao, Sheng Di, Bingsheng He, and Hai Jin.*
+
+5. **Garaph: Efficient GPU-accelerated Graph Processing on a Single Machine with Balanced Replication.** USENIX ATC 2017. [paper](https://www.usenix.org/conference/atc17/technical-sessions/presentation/ma)
+   
+   *Lingxiao Ma, Zhi Yang, Han Chen, Jilong Xue, and Yafei Dai.*
+
+6. **Tigr: Transforming Irregular Graphs for GPU-friendly Graph Processing.** ASPLOS 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3296957.3173180) 
+   
+   *Nodehi Sabet, Amir Hossein, Junqiao Qiu, and Zhijia Zhao.*
+
+7. **DiGraph: An Efficient Path-based Iterative Directed Graph Processing System on Multiple GPUs.** ASPLOS 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3297858.3304029)
+   
+   *Yu Zhang, Xiaofei Liao, Hai Jin, Bingsheng He, Haikun Liu, and Lin Gu.*
+
+8. **Grus: Toward Unified-memory-efficient High-performance Graph Processing on GPU.** TACO 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3444844)
+   
+   *Pengyu Wang, Jing Wang, Chao Li, Jianzong Wang, Haojin Zhu, and Minyi Guo.*
+
+9.  **LargeGraph: An Efficient Dependency-Aware GPU-Accelerated Large-Scale Graph Processing.** TACO 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3477603)
+    
+    *Yu Zhang, Da Peng, Xiaofei Liao, Hai Jin, Haikun Liu, Lin Gu, and Bingsheng He.*
+
+
+
+
+## [Dynamic Graphs](#content)
